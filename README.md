@@ -14,7 +14,7 @@
 
 2021
 ----
-* [NeurIPS 2021] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[Paper](https://proceedings.neurips.cc/paper/2021/file/bf499a12e998d178afd964adf64a60cb-Paper.pdf) | [Note]((https://proceedings.neurips.cc/paper/2021/file/bf499a12e998d178afd964adf64a60cb-Paper.pdf))]
+* [NeurIPS 2021] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[Paper](https://proceedings.neurips.cc/paper/2021/file/bf499a12e998d178afd964adf64a60cb-Paper.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220507.pdf)]
 <br/><br/>
 * [WWW 2021] **Graph Structure Estimation Neural Networks** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449952?casa_token=Ac8pftvrgv0AAAAA:Ka_mklQVpQmYfhNVB-r66cf6fFsCdy8jyVKGFvzC1q5Ko5DbQQqci_3vopigN0jzTDlWiL8L8Q)]
 * [CIKM 2021] **Speedup Robust Graph Structure Learning with Low-Rank Information** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482299?casa_token=Wm1gGo5XvoUAAAAA:YOnSmTKmVxGWoxzQSuHZ6522cSdKLq3yJpaVp1kCtuvtXtxLcyk6qA_E8uGuevH0sJjUsVCbsQ)]
@@ -38,7 +38,7 @@ Before 2020
 ----
 * [ICML 2019] **Learning Discrete Structures for Graph Neural Networks** [[Paper](http://proceedings.mlr.press/v97/franceschi19a/franceschi19a.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220620.pdf)]
 <br/><br/>
-* [IJCAI 2019] **Adversarial Examples for Graph Data: Deep Insights into Attack and Defense** [[Paper](https://arxiv.org/pdf/1903.01610.pdf)]
-<br/><br/>
 * [KDD 2018] **Adversarial Attacks on Neural Networks for Graph Data** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220078?casa_token=NvByIo5CJcYAAAAA:mgvVVbv3KA0HWJpo_c5af36QBFfqSZBhTfZsGabdJ226UFEFqHK03JX-3yTAb8eULfUbop2Kjw)]
 * [ICDM 2019] **Learning Robust Representations with Graph Denoising Policy Network** [[Paper](https://arxiv.org/pdf/1910.01784.pdf)]
+<br/><br/>
+* [IJCAI 2019] **Adversarial Examples for Graph Data: Deep Insights into Attack and Defense** [[Paper](https://arxiv.org/pdf/1903.01610.pdf)]
