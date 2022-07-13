@@ -8,6 +8,8 @@
 2022
 ----
 * [WWW 2022] **Towards Unsupervised Deep Graph Structure Learning** [Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186?casa_token=445ECOqpVh4AAAAA:3ZBlGDSLFxrhwN0zEUdGFMpB4DslsI4h-rFLvI3cWHNzNsx6k-4m2t-NiDLubRvw1tBLaziISw)
+
+
 * [arXiv 2022] **GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks** [Paper](https://arxiv.org/pdf/2201.12741.pdf)
 * [arXiv 2022] **A Survey on Graph Structure Learning: Progress and Opportunities** [Paper](https://sxkdz.github.io/files/publications/IJCAI/GSL.pdf)
 
