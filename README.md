@@ -52,3 +52,4 @@ Before 2020
 <br/><br/>
 * [IJCAI 2019] **Adversarial Examples for Graph Data: Deep Insights into Attack and Defense** [[Paper](https://arxiv.org/pdf/1903.01610.pdf)]
 * [CVPR 2019] **Semi-supervised Learning with Graph Learning-Convolutional Networks** [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.pdf)]
+* [AAAI 2018] **Adaptive Graph Convolutional Neural Networks** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11691)]
