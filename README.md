@@ -9,6 +9,7 @@
 ----
 * [CIKM 2022] **Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing** [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557419) | [Code](https://github.com/RingBDStack/PASTEL)]
 * [KDD 2022] **Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification** [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539332)]
+* [ICML 2022] **Boosting graph structure learning with dummy nodes** [[Paper](https://proceedings.mlr.press/v162/liu22d.html) | [Code](https://github.com/HKUST-KnowComp/DummyNode4GraphLearning)]
 * [WWW 2022] **Towards Unsupervised Deep Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186?casa_token=445ECOqpVh4AAAAA:3ZBlGDSLFxrhwN0zEUdGFMpB4DslsI4h-rFLvI3cWHNzNsx6k-4m2t-NiDLubRvw1tBLaziISw) | [Note](https://zepengzhang.com/Notes/2022/20220512.pdf) | [Code](https://github.com/GRAND-Lab/SUBLIME)]
 * [WWW 2022] **Compact Graph Structure Learning via Mutual Information Compression** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512206?casa_token=lyWPk8kyFzwAAAAA:HLmbgpzrKe17LbnQqNh2zI_6WOvNgm_VqfNAgEoqLSXR7rRm_Bzro1oNzETTQb63W9vcVlijNw) | [Code](https://github.com/liun-online/CoGSL)]
 <br/><br/>
