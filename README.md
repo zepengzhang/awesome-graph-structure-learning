@@ -14,6 +14,7 @@
 * [WWW 2022] **Compact Graph Structure Learning via Mutual Information Compression** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512206?casa_token=lyWPk8kyFzwAAAAA:HLmbgpzrKe17LbnQqNh2zI_6WOvNgm_VqfNAgEoqLSXR7rRm_Bzro1oNzETTQb63W9vcVlijNw) | [Code](https://github.com/liun-online/CoGSL)]
 <br/><br/>
 * [WWW 2022] **Prohibited Item Detection via Risk Graph Structure Learning** [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512190)]
+* [WSDM 2022] **Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels** [[Paper](https://dl.acm.org/doi/10.1145/3488560.3498408) | [Code](https://github.com/EnyanDai/RSGNN)]
 * [AAAI 2022] **GPN: A Joint Structural Learning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2205.05964)]
 * [AAAI 2022] **Graph Structure Learning with Variational Information Bottleneck** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20335) | [Code](https://github.com/RingBDStack/VIB-GSL)]
 * [arXiv 2022] **GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2201.12741.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220617.pdf)]
