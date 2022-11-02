@@ -7,6 +7,7 @@
 
 2022
 ----
+* [NeurIPS 2022] **NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification** [[Paper](https://openreview.net/forum?id=sMezXGG5So)]
 * [CIKM 2022] **Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing** [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557419) | [Code](https://github.com/RingBDStack/PASTEL)]
 * [KDD 2022] **Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification** [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539332)]
 * [ICML 2022] **Boosting graph structure learning with dummy nodes** [[Paper](https://proceedings.mlr.press/v162/liu22d.html) | [Code](https://github.com/HKUST-KnowComp/DummyNode4GraphLearning)]
