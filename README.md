@@ -20,6 +20,7 @@
 * [arXiv 2022] **GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2201.12741.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220617.pdf)]
 * [IJCAI 2022] **Hypergraph Structure Learning for Hypergraph Neural Networks** [[Paper](https://www.ijcai.org/Proceedings/2022/267)]
 * [IJCAI 2022] **Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting** [[Paper](https://www.ijcai.org/Proceedings/2022/328) | [Code](https://github.com/alipay/RGSL)]
+* [ICLR 2022] **Understanding over-squashing and bottlenecks on graphs via curvature** [[Paper](https://arxiv.org/abs/2111.14522)]
 * [arXiv 2022] **A Survey on Graph Structure Learning: Progress and Opportunities** [[Paper](https://sxkdz.github.io/files/publications/IJCAI/GSL.pdf)]
 
 2021
