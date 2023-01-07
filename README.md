@@ -9,6 +9,7 @@
 ----
 * [WSDM 2023] **Self-Supervised Graph Structure Refinement for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2211.06545)]
 * [AAAI 2023] **Directed Acyclic Graph Structure Learning from Dynamic Graphs** [[Paper](http://www.shichuan.org/doc/142.pdf) | [Code](https://github.com/BUPT-GAMMA/GraphNOTEARS)]
+* [AAAI 2023] **Self-organization Preserved Graph Structure Learning with Principle of Relevant Information ** [[Paper](https://arxiv.org/abs/2301.00015)]
 
 2022
 ----
