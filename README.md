@@ -10,6 +10,7 @@
 * [WSDM 2023] **Self-Supervised Graph Structure Refinement for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2211.06545)]
 * [AAAI 2023] **Directed Acyclic Graph Structure Learning from Dynamic Graphs** [[Paper](http://www.shichuan.org/doc/142.pdf) | [Code](https://github.com/BUPT-GAMMA/GraphNOTEARS)]
 * [AAAI 2023] **Self-organization Preserved Graph Structure Learning with Principle of Relevant Information** [[Paper](https://arxiv.org/abs/2301.00015)]
+* [TPAMI 2023] **Differentiable Graph Module (DGM) for Graph Convolutional Networks** [[Paper](https://ieeexplore.ieee.org/document/9763421) | [Code](https://github.com/lcosmo/DGM_pytorch)]
 
 2022
 ----
@@ -41,15 +42,20 @@
 * [IJCAI 2021] **Understanding Structural Vulnerability in Graph Convolutional Networks** [[Paper](https://arxiv.org/pdf/2108.06280.pdf) | [Code](https://github.com/EdisonLeeeee/MedianGCN)]
 * [ECML-PKDD 2021] **Graph-Revised Convolutional Network** [[Paper](https://arxiv.org/pdf/1911.07123.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220605.pdf) | [Code](https://github.com/PlusRoss/GRCN)]
 * [arXiv 2021] **A General Unified Graph Neural Network Framework Against Adversarial Attacks** [[Paper](https://openreview.net/pdf?id=bpUHBc9HCU8)]
+* [AAAI 2021] **Heterogeneous Graph Structure Learning for Graph Neural Networks** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16600) | [Code](https://github.com/AndyJZhao/HGSL)]
+* [ICLR 2021] **Discrete Graph Structure Learning for Forecasting Multiple Time Series** [[Paper](https://openreview.net/pdf?id=WEHSlH5mOk) | [Code](https://github.com/chaoshangcs/GTS)]
 
 2020
 ----
 * [ICML 2020] **Robust Graph Representation Learning via Neural Sparsification** [[Paper](http://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) | [Code](https://github.com/flyingdoog/PTDNet)]
 * [NeurIPS 2020] **Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings** [[Paper](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220513.pdf) | [Code](https://github.com/hugochan/IDGL)]
 * [NeurIPS 2020] **GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks** [[Paper](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf)]
+* [NeurIPS 2020] **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting** [[Paper](https://proceedings.neurips.cc/paper/2020/file/ce1aad92b939420fc17005e5461e6f48-Paper.pdf) | [Code](https://github.com/LeiBAI/AGCRN)]
 * [KDD 2020] **Graph Structure Learning for Robust Graph Neural Networks** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049) | [Code](https://github.com/ChandlerBang/Pro-GNN)]
+* [KDD 2020] **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks** [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403118) |[Code](https://github.com/nnzhan/MTGNN)]
 * [WSDM 2020] **All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371789) | [Note](https://zepengzhang.com/Notes/2022/20220621.pdf)]
 * [ICDM 2020] **Provably Robust Node Classification via Low-Pass Message Passing** [[Paper](https://shenghua-liu.github.io/papers/icdm2020-provablerobust.pdf)]
+* [CIKM 2020] **Data Augmentation for Graph Classification** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) | [Code](https://github.com/zhao-tong/GAug)]
 
 Before 2020
 ----
@@ -59,3 +65,4 @@ Before 2020
 * [IJCAI 2019] **Adversarial Examples for Graph Data: Deep Insights into Attack and Defense** [[Paper](https://arxiv.org/pdf/1903.01610.pdf)]
 * [CVPR 2019] **Semi-supervised Learning with Graph Learning-Convolutional Networks** [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.pdf)]
 * [AAAI 2018] **Adaptive Graph Convolutional Neural Networks** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11691)]
+* [ICML 2018] **Neural Relational Inference for Interacting Systems** [[Paper](http://proceedings.mlr.press/v80/kipf18a/kipf18a.pdf) | [Code](https://github.com/ethanfetaya/nri)]
