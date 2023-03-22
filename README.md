@@ -19,7 +19,7 @@
 2022
 ----
 * [NeurIPS 2022] **Contrastive Graph Structure Learning via Information Bottleneck for Recommendation** [[Paper](https://openreview.net/forum?id=lhl_rYNdiH6) | [Code](https://github.com/weicy15/CGI)]
-* [NeurIPS 2022] **NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification** [[Paper](https://openreview.net/forum?id=sMezXGG5So)]
+* [NeurIPS 2022] **NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification** [[Paper](https://openreview.net/forum?id=sMezXGG5So) | [Code](https://github.com/qitianwu/NodeFormer)]
 * [NeurIPS 2022] **Simultaneous Missing Value Imputation and Structure Learning with Groups** [[Paper](https://arxiv.org/abs/2110.08223) | [Code](https://github.com/microsoft/causica)]
 * [CIKM 2022] **Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing** [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557419) | [Code](https://github.com/RingBDStack/PASTEL)]
 * [KDD 2022] **Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification** [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539332)]
