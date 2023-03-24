@@ -11,7 +11,7 @@
 * [ICDE 2023] **Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport** [[Paper](https://arxiv.org/abs/2301.12721) | [Code](https://github.com/squareRoot3/SLOTAlign)]
 * [WSDM 2023] **Self-Supervised Graph Structure Refinement for Graph Neural Networks** [[Paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570455) | [Code](https://github.com/andyjzhao/WSDM23-GSR)]
 * [AAAI 2023] **Directed Acyclic Graph Structure Learning from Dynamic Graphs** [[Paper](http://www.shichuan.org/doc/142.pdf) | [Code](https://github.com/BUPT-GAMMA/GraphNOTEARS)]
-* [AAAI 2023] **Self-organization Preserved Graph Structure Learning with Principle of Relevant Information** [[Paper](https://arxiv.org/abs/2301.00015)]
+* [AAAI 2023] **Self-organization Preserved Graph Structure Learning with Principle of Relevant Information** [[Paper](https://arxiv.org/abs/2301.00015) ｜ [Code](https://github.com/RingBDStack/PRI-GSL)]
 * [AAAI 2023] **USER: Unsupervised Structural Entropy-based Robust Graph Neural Network** [[Paper](https://arxiv.org/abs/2302.05889) | [Code](https://github.com/wangyifeibeijing/USER)]
 * [AAAI 2023] **Spatio-Temporal Meta-Graph Learning for Traffic Forecasting** [[Paper](https://arxiv.org/abs/2211.14701) | [Code](https://github.com/deepkashiwa20/MegaCRN)]
 * [TPAMI 2023] **Differentiable Graph Module (DGM) for Graph Convolutional Networks** [[Paper](https://ieeexplore.ieee.org/document/9763421) | [Code](https://github.com/lcosmo/DGM_pytorch)]
