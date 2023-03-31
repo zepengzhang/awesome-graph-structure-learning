@@ -8,6 +8,7 @@
 2023
 ----
 * [WWW 2023] **Homophily-oriented Heterogeneous Graph Rewiring** [[Paper](http://arxiv.org/abs/2302.06299)]
+* [WWW 2023] **SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization** [[Paper](https://arxiv.org/abs/2303.09778) | [Code](https://github.com/RingBDStack/SE-GSL)]
 * [ICDE 2023] **Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport** [[Paper](https://arxiv.org/abs/2301.12721) | [Code](https://github.com/squareRoot3/SLOTAlign)]
 * [WSDM 2023] **Self-Supervised Graph Structure Refinement for Graph Neural Networks** [[Paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570455) | [Code](https://github.com/andyjzhao/WSDM23-GSR)]
 * [AAAI 2023] **Directed Acyclic Graph Structure Learning from Dynamic Graphs** [[Paper](http://www.shichuan.org/doc/142.pdf) | [Code](https://github.com/BUPT-GAMMA/GraphNOTEARS)]
