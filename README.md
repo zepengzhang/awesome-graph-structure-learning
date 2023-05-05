@@ -7,6 +7,7 @@
 
 2023
 ----
+* [TNNLS] **Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions** [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110) | [Code](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)]
 * [WWW 2023] **Homophily-oriented Heterogeneous Graph Rewiring** [[Paper](http://arxiv.org/abs/2302.06299)]
 * [WWW 2023] **SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization** [[Paper](https://arxiv.org/abs/2303.09778) | [Code](https://github.com/RingBDStack/SE-GSL)]
 * [ICDE 2023] **Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport** [[Paper](https://arxiv.org/abs/2301.12721) | [Code](https://github.com/squareRoot3/SLOTAlign)]
@@ -19,6 +20,7 @@
 
 2022
 ----
+* [TNNLS 2022] **Reverse graph learning for graph neural network** [[Paper](https://ieeexplore.ieee.org/abstract/document/9749776)]
 * [NeurIPS 2022] **Contrastive Graph Structure Learning via Information Bottleneck for Recommendation** [[Paper](https://openreview.net/forum?id=lhl_rYNdiH6) | [Code](https://github.com/weicy15/CGI)]
 * [NeurIPS 2022] **NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification** [[Paper](https://openreview.net/forum?id=sMezXGG5So) | [Code](https://github.com/qitianwu/NodeFormer)]
 * [NeurIPS 2022] **Simultaneous Missing Value Imputation and Structure Learning with Groups** [[Paper](https://arxiv.org/abs/2110.08223) | [Code](https://github.com/microsoft/causica)]
@@ -53,6 +55,7 @@
 
 2020
 ----
+* [TNNLS 2020] **Probabilistic semi-supervised learning via sparse graph structure learning** [[Paper](https://ieeexplore.ieee.org/abstract/document/9063663)]
 * [ICML 2020] **Robust Graph Representation Learning via Neural Sparsification** [[Paper](http://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) | [Code](https://github.com/flyingdoog/PTDNet)]
 * [NeurIPS 2020] **Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings** [[Paper](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf) | [Note](https://zepengzhang.com/Notes/2022/20220513.pdf) | [Code](https://github.com/hugochan/IDGL)]
 * [NeurIPS 2020] **GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks** [[Paper](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf)]
