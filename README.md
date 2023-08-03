@@ -7,7 +7,9 @@
 
 2023
 ----
-* [TNNLS] **Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions** [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110) | [Code](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)]
+* [KDD 2023] **Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities** [[Paper](https://kl4805.github.io/files/KDD23.pdf) | [Code](https://github.com/KL4805/TransGTR/)]
+* [KDD 2023] **GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.11264) | [Code](https://github.com/WtaoZhao/GraphGLOW)]
+* [TNNLS 2023] **Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions** [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110) | [Code](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)]
 * [WWW 2023] **Homophily-oriented Heterogeneous Graph Rewiring** [[Paper](http://arxiv.org/abs/2302.06299)]
 * [WWW 2023] **SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization** [[Paper](https://arxiv.org/abs/2303.09778) | [Code](https://github.com/RingBDStack/SE-GSL)]
 * [ICDE 2023] **Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport** [[Paper](https://arxiv.org/abs/2301.12721) | [Code](https://github.com/squareRoot3/SLOTAlign)]
