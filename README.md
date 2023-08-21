@@ -1,12 +1,15 @@
 # awesome-graph-structure-learning
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 > A collection of papers on **Graph Structural Learning (GSL)**. Will be frequently updated.
+> We have developed a comprehensive graph structure learning benchmark ([GSLB](https://github.com/GSL-Benchmark/GSLB)), which consists of diverse graph datasets and state-of-the-art GSL algorithm. Feel free to explore our benchmark and provide any feedback or contributions.
 
 <!-- ## Literature [sorted in reverse chronological order]-->
 
 
 2023
 ----
+* [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309) | [Code](https://github.com/galogm/HoLe)]
+* [KDD 2023] **PROSE: Graph Structure Learning via Progressive Strategy** [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599476) | [Code](https://github.com/tigerbunny2023/PROSE)]
 * [KDD 2023] **Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities** [[Paper](https://kl4805.github.io/files/KDD23.pdf) | [Code](https://github.com/KL4805/TransGTR/)]
 * [KDD 2023] **GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.11264) | [Code](https://github.com/WtaoZhao/GraphGLOW)]
 * [TNNLS 2023] **Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions** [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110) | [Code](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)]
@@ -77,3 +80,7 @@ Before 2020
 * [CVPR 2019] **Semi-supervised Learning with Graph Learning-Convolutional Networks** [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.pdf)]
 * [AAAI 2018] **Adaptive Graph Convolutional Neural Networks** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11691)]
 * [ICML 2018] **Neural Relational Inference for Interacting Systems** [[Paper](http://proceedings.mlr.press/v80/kipf18a/kipf18a.pdf) | [Code](https://github.com/ethanfetaya/nri)]
+
+## Contributing
+If you have come across relevant resources, feel free to open an issue or submit a pull request.
+```* [***conference***] **paper_name** [[Paper](link) | [Code](link)]```
