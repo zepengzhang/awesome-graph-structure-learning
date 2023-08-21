@@ -1,7 +1,7 @@
 # awesome-graph-structure-learning
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 > A collection of papers on **Graph Structural Learning (GSL)**. Will be frequently updated.
-
+>
 > We have developed a comprehensive graph structure learning benchmark ([GSLB](https://github.com/GSL-Benchmark/GSLB)), which consists of diverse graph datasets and state-of-the-art GSL algorithm. Feel free to explore our benchmark and provide any feedback or contributions.
 
 <!-- ## Literature [sorted in reverse chronological order]-->
