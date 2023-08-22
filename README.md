@@ -10,6 +10,7 @@
 2023
 ----
 * [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309) | [Code](https://github.com/galogm/HoLe)]
+* [IJCAI 2023] **Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification** [[Paper](https://www.ijcai.org/proceedings/2023/0234.pdf) | [Code](https://github.com/KellyGong/SparseGAD)]
 * [KDD 2023] **PROSE: Graph Structure Learning via Progressive Strategy** [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599476) | [Code](https://github.com/tigerbunny2023/PROSE)]
 * [KDD 2023] **Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities** [[Paper](https://kl4805.github.io/files/KDD23.pdf) | [Code](https://github.com/KL4805/TransGTR/)]
 * [KDD 2023] **GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.11264) | [Code](https://github.com/WtaoZhao/GraphGLOW)]
